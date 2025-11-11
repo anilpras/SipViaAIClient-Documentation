@@ -48,7 +48,22 @@ SIPviaAIClient.exe --subscription "12345678-1234-1234-1234-123456789abc" --ai
 - Internal pilots confirm measurable improvement in how quickly customer-facing teams can communicate compliance posture and next steps.
 - The beta is still labeled **“In Testing”**; functionality is stable, but feedback is welcome while we finalise UX polish and automation.
 
-Stay tuned for release updates and keep the feedback coming as we refine the experience.
+🎯Sample Output
+ 
+<img width="2005" height="1173" alt="image" src="https://github.com/user-attachments/assets/a0016324-84b0-4c46-89ef-1ef9b46ba093" />
+
+<img width="2004" height="1135" alt="image" src="https://github.com/user-attachments/assets/31bbd8a4-2001-4fa1-94bf-6ac59e92e71f" />
+
+<img width="1975" height="910" alt="image" src="https://github.com/user-attachments/assets/3e6fa97f-81f1-41ba-98da-909e76d31551" />
+
+<img width="1940" height="1264" alt="image" src="https://github.com/user-attachments/assets/0779bdb1-ab02-480a-a97a-b4853500bb3c" />
+
+
+<img width="1941" height="1163" alt="image" src="https://github.com/user-attachments/assets/60eccf53-171b-4891-ae06-20fbdfe4c5d3" />
+
+
+
+**Stay tuned for release updates and keep the feedback coming as we refine the experience.**
 
 — *ESME App Services Engineering*  
 *SIPviaAI Azure App Services, Service Improvement Plan Beta v1.0*

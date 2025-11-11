@@ -1,10 +1,6 @@
 # SIPviaAI Azure App Services, Service Improvement Plan Beta v1.0 (In Testing) – Field Brief
 
-*November 2025 · Internal preview for Azure App Services field & customer-facing program managers*
-
-> Turning raw telemetry into an action-ready Service Improvement Plan in minutes.
-
-_[Insert executive dashboard hero image here before sharing externally.]_
+SIPviaAI is a beta desktop tool that blends live Kusto telemetry with Azure AI to produce a customer-ready Azure App Services Support Improvement Plan—complete with weighted compliance score, prioritized risks, AI-authored executive briefing, and exportable HTML/PDF/DOCX reports—while optional AI insights remain gated until broader rollout, with ESME App Services available to help teams run or review outputs.
 
 ## What this tool delivers
 

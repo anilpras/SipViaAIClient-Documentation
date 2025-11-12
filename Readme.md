@@ -48,7 +48,7 @@ SIPviaAIClient.exe --subscription "12345678-1234-1234-1234-123456789abc" --ai
 - Internal pilots confirm measurable improvement in how quickly customer-facing teams can communicate compliance posture and next steps.
 - The beta is still labeled **“In Testing”**; functionality is stable, but feedback is welcome while we finalise UX polish and automation.
 
-🎯Sample Output
+## 🎯Sample Output
  
 <img width="2005" height="1173" alt="image" src="https://github.com/user-attachments/assets/a0016324-84b0-4c46-89ef-1ef9b46ba093" />
 
